@@ -36,7 +36,7 @@ Upload one or more images, remove their backgrounds, replace them with solid col
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/bg-remover.git
+git clone https://github.com/bhanu2006-24/bgremover
 cd bg-remover
 
 # Create a virtual environment (recommended)

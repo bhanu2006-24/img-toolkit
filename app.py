@@ -8,7 +8,7 @@ from rembg import remove
 from PIL import Image, ImageColor, ImageFilter, ImageOps, ImageDraw
 
 # ---------------- Page config ----------------
-st.set_page_config(page_title="🪄 Premium Background Remover", page_icon="✨", layout="wide")
+st.set_page_config(page_title="🪄 Background Remover", page_icon="✨", layout="wide")
 
 # ---------------- Sidebar: controls ----------------
 with st.sidebar:
@@ -41,7 +41,7 @@ with st.sidebar:
 
     st.caption("Tip: High‑res inputs produce cleaner edges. Transparent output requires PNG.")
 
-st.title("🪄 Premium Background Remover")
+st.title("🪄 Background Remover")
 st.markdown("Upload one or more images, remove backgrounds, replace or style them, and download individually or as a ZIP.")
 
 # ---------------- Upload ----------------
