@@ -1,0 +1,50 @@
+# Environment and dependencies
+
+.venv/
+venv/
+env/
+pip-wheel-metadata/
+dist/
+build/
+*.egg-info/
+
+# Python compiled files
+
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# IDE and OS generated files
+
+.DS_Store
+.vscode/
+.idea/
+*~
+*.swp
+
+# Jupyter Notebook/VS Code interactive outputs
+
+.ipynb_checkpoints
+
+# Streamlit-specific cache and local data
+
+# Streamlit stores local session state data here (often ignored)
+
+.streamlit/
+
+# Log files and temporary data
+
+*.log
+tmp/
+temp/
+
+# Data files or models that are too large for Git
+
+# If you have large models or datasets, you should typically ignore them.
+
+# Example:
+
+# data/
+
+# models/
