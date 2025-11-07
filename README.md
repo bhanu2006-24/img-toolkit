@@ -15,57 +15,72 @@ This toolkit is designed to be **modular, offline, and premium‑quality**, cove
 - Styling options: soft shadow, subject outline, circle crop, rounded corners.  
 - Batch processing + ZIP download.  
 
+**Screenshots:**  
+![Background Remover](assets/background1.png)  
+![Background Remover](assets/background2.png)  
+
+---
+
 ### 🔄 Format Converter
 - Convert between PNG, JPG, WEBP, TIFF, BMP.  
 - Side‑by‑side preview of **original vs converted**.  
 - Shows format + file size for both.  
 - One‑click download.  
 
+**Screenshot:**  
+![Format Converter](assets/format.png)  
+
+---
+
 ### 📏 Resizer
 - Resize by width/height, percentage, or max dimension.  
 - Maintains aspect ratio.  
 - Side‑by‑side preview with dimensions + file size.  
+
+**Screenshots:**  
+![Resizer](assets/size1.png)  
+![Resizer](assets/size2.png)  
+
+---
 
 ### ✏️ Sketch Converter
 - Convert photos into pencil sketch or cartoon‑style images.  
 - Adjustable intensity.  
 - Side‑by‑side preview + download.  
 
+**Screenshot:**  
+![Sketch Converter](assets/sketch.png)  
+
+---
+
 ### 🔥 OCR Text Reader
 - Extract text from images using [pytesseract](https://github.com/madmaze/pytesseract).  
 - Supports multiple languages.  
 - Copy text or export as `.txt`.  
 
+**Screenshot:**  
+![OCR](assets/ocr.png)  
+
+---
+
 ### 🌐 Image → URL Converter
 - Upload an image → instantly generate a shareable URL.  
 - Useful for embedding in docs, websites, or APIs.  
+
+**Screenshots:**  
+![Image to URL](assets/url1.png)  
+![Image to URL](assets/url2.png)  
+
+---
 
 ### 🪙 Icon Generator
 - Generate multiple icon sizes (16×16, 32×32, 64×64, 128×128, 256×256, 512×512).  
 - Preview all sizes side‑by‑side.  
 - Download all icons as a ZIP.  
 
----
-
-## 📸 Screenshots
-
-*(Replace these placeholders with actual screenshots saved in `assets/`)*
-
-- Background Remover → 
-- ![Background Remover](assets/background1.png)  
-- ![Background Remover](assets/background2.png) 
-- Format Converter → ![Format Converter](assets/format.png)  
-- Resizer → 
-- ![Resizer](assets/size1.png)  
-- ![Resizer](assets/size2.png) 
-- Sketch Converter → ![Sketch Converter](assets/sketch.png)  
-- OCR → ![OCR](assets/ocr.png)  
-- Image → URL Converter → 
-- ![Image to URL](assets/url1.png) 
-- ![Image to URL](assets/url2.png)   
-- Icon Generator → 
-- ![Icon Generator](assets/icon1.png)  
-- ![Icon Generator](assets/icon2.png)  
+**Screenshots:**  
+![Icon Generator](assets/icon1.png)  
+![Icon Generator](assets/icon2.png)  
 
 ---
 
